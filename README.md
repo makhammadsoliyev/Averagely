@@ -1,4 +1,4 @@
-# practical_project3_averagely
+# Averagely
 
 
 
